@@ -1,4 +1,6 @@
-output/
+!output/
+output/*
+!output/example.txt
 
 !data/
 data/*

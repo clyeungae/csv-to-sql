@@ -1,0 +1,1 @@
+INSERT INTO example VALUES (' Tommy', ' Carson'), (' Loki', ' Sera'), (' Kenny', ' Hin')
